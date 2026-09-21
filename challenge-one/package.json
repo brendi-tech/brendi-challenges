@@ -7,7 +7,7 @@
     "test": "ts-node test_endpoints.ts"
   },
   "dependencies": {
-    "csv-parse": "^5.6.0",
+    "csv-parse": "^7.0.2",
     "express": "^4.21.0"
   },
   "devDependencies": {
